@@ -1,0 +1,18 @@
+.backroundImage{
+    background-image: url('./backgroundImages/index.jpeg');
+    height: 400px;
+    width: 100vw;
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    margin: 10px;
+}
+.biography{
+    padding: 50px;
+}
+.songs{
+    padding: 50px;
+}
+.header{
+    margin-left: 45%;
+    text-decoration: underline;
+}
