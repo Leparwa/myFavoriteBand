@@ -3,7 +3,8 @@
 #### By **{Kevin Leresi Leparwa}**
 ## Description
 { 
-    this project descrie about my favorite music band in kenya. i like Wakadinali, and that is why i decided to choose them
+    this project descrie about my favorite music band in kenya. i like Wakadinali, and that is why i decided to choose them.
+    here is the page link https://leparwa.github.io/myFavoriteBand/
 }
 ## Setup/Installation Requirements
 * This is a great place
