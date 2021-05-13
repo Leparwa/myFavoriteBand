@@ -16,7 +16,7 @@ HTML and CSS
 kevin.leparwa@student.moringaschool.com
 
 ##My gh-pages link
-[https://leparwa.github.io/myFavoriteBand/]
+[https://github.com/Robert-Moringa/Dairy_Business]
 ### License
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
 Copyright (c) 2021 **Leresi Kevin Leparwa*
